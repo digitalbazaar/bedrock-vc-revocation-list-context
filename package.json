@@ -1,0 +1,31 @@
+{
+  "name": "bedrock-vc-revocation-list-context",
+  "version": "0.0.1-0",
+  "description": "Bedrock VC Revocation List 2020 Context (Bedrock module)",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "main": "lib",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digitalbazaar/bedrock-vc-revocation-list-context.git"
+  },
+  "author": {
+    "name": "Digital Bazaar, Inc.",
+    "email": "support@digitalbazaar.com",
+    "url": "https://digitalbazaar.com"
+  },
+  "bugs": {
+    "url": "https://github.com/digitalbazaar/bedrock-vc-revocation-list-context/issues"
+  },
+  "homepage": "https://github.com/digitalbazaar/bedrock-vc-revocation-list-context",
+  "dependencies": {
+    "vc-revocation-list-context": "~1.0.0"
+  },
+  "peerDependencies": {
+    "bedrock": "^3.0.0",
+    "bedrock-jsonld-document-loader": "^1.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-digitalbazaar": "^2.0.1"
+  }
+}
