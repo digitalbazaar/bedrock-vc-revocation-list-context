@@ -18,14 +18,17 @@
   },
   "homepage": "https://github.com/digitalbazaar/bedrock-vc-revocation-list-context",
   "dependencies": {
-    "vc-revocation-list-context": "~1.0.0"
+    "esm": "^3.2.25",
+    "vc-revocation-list-context": "^1.0.0"
   },
   "peerDependencies": {
-    "bedrock": "^3.0.0",
-    "bedrock-jsonld-document-loader": "^1.0.1"
+    "bedrock": "^4.5.0",
+    "bedrock-jsonld-document-loader": "^1.3.0"
   },
   "devDependencies": {
-    "eslint": "^6.8.0",
-    "eslint-config-digitalbazaar": "^2.0.1"
+    "eslint": "^7.32.0",
+    "eslint-config-digitalbazaar": "^2.8.0",
+    "eslint-plugin-jsdoc": "^37.9.7",
+    "jsdoc-to-markdown": "^6.0.1"
   }
 }
