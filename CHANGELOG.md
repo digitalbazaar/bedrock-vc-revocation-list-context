@@ -1,6 +1,6 @@
 # bedrock-vc-revocation-list-context ChangeLog
 
-## 3.0.0 - 2022-04-xx
+## 3.0.0 - 2022-04-29
 
 ### Changed
 - **BREAKING**: Update peer deps:
