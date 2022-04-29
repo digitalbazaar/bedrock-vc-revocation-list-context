@@ -1,5 +1,12 @@
 # bedrock-vc-revocation-list-context ChangeLog
 
+## 3.0.0 - 2022-04-xx
+
+### Changed
+- **BREAKING**: Update peer deps:
+  - `@bedrock/core@6`
+  - `@bedrock/jsonld-document-loader@3`.
+
 ## 2.0.0 - 2022-04-03
 
 ### Changed

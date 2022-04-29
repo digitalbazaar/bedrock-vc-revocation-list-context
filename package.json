@@ -25,8 +25,8 @@
     "vc-revocation-list-context": "^1.0.0"
   },
   "peerDependencies": {
-    "@bedrock/core": "^5.0.0",
-    "@bedrock/jsonld-document-loader": "^2.0.0"
+    "@bedrock/core": "^6.0.0",
+    "@bedrock/jsonld-document-loader": "^3.0.0"
   },
   "devDependencies": {
     "eslint": "^7.32.0",
