@@ -1,6 +1,6 @@
 # bedrock-vc-revocation-list-context ChangeLog
 
-## 3.1.0 - 2022-TBD
+## 3.1.0 - 2022-06-08
 
 ### Changed
 - Export constants.
