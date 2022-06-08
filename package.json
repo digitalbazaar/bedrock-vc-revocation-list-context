@@ -1,6 +1,6 @@
 {
   "name": "@bedrock/vc-revocation-list-context",
-  "version": "3.1.0",
+  "version": "3.1.1-0",
   "type": "module",
   "description": "Bedrock VC Revocation List 2020 Context (Bedrock module)",
   "license": "SEE LICENSE IN LICENSE.md",
