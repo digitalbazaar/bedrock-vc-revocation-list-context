@@ -1,5 +1,11 @@
 # bedrock-vc-revocation-list-context ChangeLog
 
+## 4.0.0 - 2023-09-xx
+
+### Changed
+- **BREAKING**: Drop support for Node.js < 18.
+- Use `@bedrock/jsonld-document-loader@4`.
+
 ## 3.1.0 - 2022-06-08
 
 ### Changed
