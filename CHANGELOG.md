@@ -1,6 +1,6 @@
 # bedrock-vc-revocation-list-context ChangeLog
 
-## 4.0.0 - 2023-09-xx
+## 4.0.0 - 2023-09-19
 
 ### Changed
 - **BREAKING**: Drop support for Node.js < 18.
