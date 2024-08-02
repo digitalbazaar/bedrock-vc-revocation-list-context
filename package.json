@@ -28,14 +28,7 @@
     "vc-revocation-list-context": "^1.0.0"
   },
   "peerDependencies": {
-    "@bedrock/core": "^6.0.0",
-    "@bedrock/jsonld-document-loader": "^4.0.0"
-  },
-  "devDependencies": {
-    "eslint": "^7.32.0",
-    "eslint-config-digitalbazaar": "^2.8.0",
-    "eslint-plugin-jsdoc": "^37.9.7",
-    "jsdoc-to-markdown": "^7.1.1"
+    "@bedrock/jsonld-document-loader": "^5.1.0"
   },
   "engines": {
     "node": ">=18"
