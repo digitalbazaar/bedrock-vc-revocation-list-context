@@ -2,6 +2,9 @@
 
 ## 6.0.0 - 2024-08-01
 
+### Added
+- Add tests.
+
 ### Changed
 - **BREAKING**: Update peer deps:
   - `@bedrock/jsonld-document-loader@5.1.0`.
