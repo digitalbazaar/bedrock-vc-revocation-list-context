@@ -1,6 +1,6 @@
 # bedrock-vc-revocation-list-context ChangeLog
 
-## 6.0.0 - 2024-08-01
+## 5.0.0 - 2024-08-xx
 
 ### Added
 - Add tests.
