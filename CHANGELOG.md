@@ -1,5 +1,10 @@
 # bedrock-vc-revocation-list-context ChangeLog
 
+## 6.0.0 - 2024-08-01
+
+### Fixed
+- Add package `files` field.
+
 ## 4.0.0 - 2023-09-19
 
 ### Changed
