@@ -9,6 +9,7 @@
 - **BREAKING**: Update peer deps:
   - `@bedrock/jsonld-document-loader@5.1.0`.
 - Remove `@bedrock/core` peer dep.
+- Use `addDocuments`.
 
 ### Fixed
 - Add package `files` field.
